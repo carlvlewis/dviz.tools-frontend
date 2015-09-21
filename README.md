@@ -1,4 +1,4 @@
-![inline](http://cvlassets.s3.amazonaws.com/fireshotmercer-1.pdf)
+![dataviz.tools](http://cvlassets.s3.amazonaws.com/dataviztools.png)
 # dataviz.tools- front-end work in progress
 
 
